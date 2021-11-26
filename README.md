@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hecker76
+- 👀 I’m interested in hacking(white hat) for good and love coding
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on python...
